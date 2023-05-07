@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SubmissionAwalGithub</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ers">Followers</string>
+    <string name="ing">Following</string>
+    <string name="masukan">Masukan user</string>
+    <string name="pict">fotoAkun</string>
+    <string name="Favorite">Favorite</string>
+    <string name="light">Light Mode</string>
+    <string name="dark">Dark Mode</string>
+    <string name="setting">Setting</string>
+</resources>
